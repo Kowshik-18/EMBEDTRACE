@@ -1,0 +1,24 @@
+{
+ "project": "rocketmq",
+ "kind": "image",
+ "target": "apache/rocketmq@sha256:7e8f6c9dbd9df742ed26ba69c00d4ad69e2f86a56f3ca7782ff8144dd0798132",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:a613f1341f3404b96900cf11e5c35f2d049c103504a1dd60242a04cebf5be467",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13316
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": null,
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 9,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 3,
+ "unresolved": 6
+}

@@ -1,0 +1,15 @@
+{
+ "project": "camel",
+ "kind": "maven",
+ "target": "org.apache.camel@4.19.0",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "610 jars at version 4.19.0",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 7,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 1,
+ "unresolved": 3
+}

@@ -1,0 +1,24 @@
+{
+ "project": "groovy",
+ "kind": "image",
+ "target": "groovy@sha256:69e00db7cf4b1ee033685c581a0eb2e9c022d6e768c255c417fd8df9c0a3ca8c",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:fcb225732d358d8f4ad7100393b3c8205b80739696e15d8a2ac424cb9ba0aac5",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13787
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "21.0.13+9-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 3,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 11,
+ "unresolved": 0
+}

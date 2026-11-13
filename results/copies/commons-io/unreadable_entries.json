@@ -1,0 +1,18 @@
+[
+ {
+  "chain": [
+   "/commons-io-2.22.0/commons-io-2.22.0-test-sources.jar",
+   "org/apache/commons/io/moby.zip",
+   "README"
+  ],
+  "reason": "entry not readable (NotImplementedError)"
+ },
+ {
+  "chain": [
+   "/commons-io-2.22.0/commons-io-2.22.0-tests.jar",
+   "org/apache/commons/io/moby.zip",
+   "README"
+  ],
+  "reason": "entry not readable (NotImplementedError)"
+ }
+]

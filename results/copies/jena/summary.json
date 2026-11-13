@@ -1,0 +1,15 @@
+{
+ "project": "jena",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/jena/binaries/apache-jena-6.2.0.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:2b467d2ff940c207aea935e012ecbb0f0ab3e6bf59b3fc4b3fbc6cf9cea11f1428e97882ec078a5ffc57e114e0f5c88ea98c4575e687cc1dd232f99324b7b2a2",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

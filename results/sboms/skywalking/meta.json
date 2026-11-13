@@ -1,0 +1,31 @@
+{
+ "project": "skywalking",
+ "target": "apache/skywalking-oap-server@sha256:ddf74a9059ce4c2cc22120cb3d36b1edf6bbb0e3316eca3e4dff295dd2ff7ee9",
+ "rootfs_prefix": "/home/claude/EmbedTrace/cache/work/rootfs_2dhfaqvh",
+ "runs": {
+  "syft": {
+   "version": "1.42.4",
+   "exit": 0,
+   "seconds": 7,
+   "valid": true,
+   "command": "syft dir:<root> -q -o cyclonedx-json=syft.cdx.json",
+   "stderr_tail": ""
+  },
+  "trivy": {
+   "version": "0.76.1",
+   "exit": 0,
+   "seconds": 2,
+   "valid": true,
+   "command": "trivy rootfs --quiet --scanners vuln --format cyclonedx --output trivy.cdx.json <root>",
+   "stderr_tail": ""
+  },
+  "cdxgen": {
+   "version": "12.9.0",
+   "exit": 0,
+   "seconds": 80,
+   "valid": true,
+   "command": "cdxgen -t universal -r --no-install-deps -o cdxgen.cdx.json <root>",
+   "stderr_tail": ""
+  }
+ }
+}

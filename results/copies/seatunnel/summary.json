@@ -1,0 +1,24 @@
+{
+ "project": "seatunnel",
+ "kind": "image",
+ "target": "apache/seatunnel@sha256:8bb1e463403b713a2ecef15480d4f962db33fb0ddebd87019b9e7a8c933b1750",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:ac8f8a250623656561fc7f27582dd4ea60f9be0ebada0b75b8481fc4ea166255",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 21745
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "11.0.32.1+1",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 124,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 44,
+ "unresolved": 93
+}

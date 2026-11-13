@@ -1,0 +1,24 @@
+{
+ "project": "bookkeeper",
+ "kind": "image",
+ "target": "apache/bookkeeper@sha256:b841c0c85f4c2a03a8206ee458352f248579ddb9df22be5d6fb564ab9abb8219",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:b841c0c85f4c2a03a8206ee458352f248579ddb9df22be5d6fb564ab9abb8219",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13751
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": null,
+   "version": null,
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 12,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 2,
+ "unresolved": 17
+}

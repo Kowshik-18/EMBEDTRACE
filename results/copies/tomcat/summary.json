@@ -1,0 +1,24 @@
+{
+ "project": "tomcat",
+ "kind": "image",
+ "target": "tomcat@sha256:801c473ea864cab344fcaadf22789a620acaeecd9daa85e706e06a97ebc37b94",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:29f58cd8c342e5f8add355afa739b5e8a772997240b5779a2814ff5035585289",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 19870
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "25.0.5+8-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 10,
+ "unresolved": 1
+}

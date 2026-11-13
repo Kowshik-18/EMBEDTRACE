@@ -1,0 +1,24 @@
+{
+ "project": "solr",
+ "kind": "image",
+ "target": "solr@sha256:f396e075c4a09e1ec5009fa736792b80e5886319804817e7e334d1c8f05e9c58",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:76e94c5d064e5d543eb1b810f8852e4c47fcde7888a90a5b47b023f78de15ed0",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13008
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "25.0.5+8-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 10,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 14,
+ "unresolved": 6
+}

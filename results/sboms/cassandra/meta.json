@@ -1,0 +1,31 @@
+{
+ "project": "cassandra",
+ "target": "cassandra@sha256:acd754f07c73f3a166bb477354b56ce9a05690c3e5e2aaacc1aab2afddba6436",
+ "rootfs_prefix": "/home/claude/EmbedTrace/cache/work/rootfs_j7e4mq94",
+ "runs": {
+  "syft": {
+   "version": "1.42.4",
+   "exit": 0,
+   "seconds": 3,
+   "valid": true,
+   "command": "syft dir:<root> -q -o cyclonedx-json=syft.cdx.json",
+   "stderr_tail": ""
+  },
+  "trivy": {
+   "version": "0.76.1",
+   "exit": 0,
+   "seconds": 2,
+   "valid": true,
+   "command": "trivy rootfs --quiet --scanners vuln --format cyclonedx --output trivy.cdx.json <root>",
+   "stderr_tail": ""
+  },
+  "cdxgen": {
+   "version": "12.9.0",
+   "exit": 0,
+   "seconds": 35,
+   "valid": true,
+   "command": "cdxgen -t universal -r --no-install-deps -o cdxgen.cdx.json <root>",
+   "stderr_tail": ""
+  }
+ }
+}

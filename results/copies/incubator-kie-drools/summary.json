@@ -1,0 +1,15 @@
+{
+ "project": "incubator-kie-drools",
+ "kind": "maven",
+ "target": "org.drools,org.kie@10.2.0",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "400 jars at version 10.2.0",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 2,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 2,
+ "unresolved": 0
+}

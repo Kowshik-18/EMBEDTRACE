@@ -1,0 +1,15 @@
+{
+ "project": "hbase",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/hbase/3.0.0/hbase-3.0.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:8290bc3cece084d36f7f47aae726268c7332e4828c6e8599df1343b03348e93f91165fad03ac6107bfbf0d8535e72024fa5d19217890d2848d013d8418a584ed",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 20,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 4,
+ "unresolved": 14
+}

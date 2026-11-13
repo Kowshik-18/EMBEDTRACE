@@ -1,0 +1,24 @@
+{
+ "project": "karaf",
+ "kind": "image",
+ "target": "apache/karaf@sha256:2b1528eaf2da8bbe07c369a734ddd29ed5a04121f68a8aedd5225c946995ebed",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:f4f89b9624a8e30da79ba45d933b8fc45dfc8350f55691f88d81cb7c9174d371",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 19960
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "11.0.32.1+1",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 4,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 11,
+ "unresolved": 2
+}

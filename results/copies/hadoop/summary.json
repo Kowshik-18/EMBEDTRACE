@@ -1,0 +1,24 @@
+{
+ "project": "hadoop",
+ "kind": "image",
+ "target": "apache/hadoop@sha256:46980ea1653eb3453d9cf43c4b7cb69c4729e19612d4902da0372d11e11a7a12",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:46980ea1653eb3453d9cf43c4b7cb69c4729e19612d4902da0372d11e11a7a12",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 16420
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "17.0.18+8",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 17,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 16,
+ "unresolved": 9
+}

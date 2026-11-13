@@ -1,0 +1,15 @@
+{
+ "project": "calcite",
+ "kind": "maven",
+ "target": "org.apache.calcite@1.42.0",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "22 jars at version 1.42.0",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

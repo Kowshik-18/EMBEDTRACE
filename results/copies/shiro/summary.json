@@ -1,0 +1,15 @@
+{
+ "project": "shiro",
+ "kind": "maven",
+ "target": "org.apache.shiro@2.0.2",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "33 jars at version 2.0.2",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

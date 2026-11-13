@@ -1,0 +1,24 @@
+{
+ "project": "nifi",
+ "kind": "image",
+ "target": "apache/nifi@sha256:6f7f2840dbf178c6dd3fa13435b9b358f3be3c6fb7417de467a35a267f4d28ad",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:0337952c155b6afd9c5e299dcc65e26843a725a48a19ba4d8fac029b0bd8ed2a",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 19110
+ },
+ "java_runtimes": [
+  {
+   "home": "/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64",
+   "vendor": "BellSoft",
+   "version": "21.0.12.1+1-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 44,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 34,
+ "unresolved": 9
+}

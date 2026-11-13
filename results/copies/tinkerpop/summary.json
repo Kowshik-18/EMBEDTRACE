@@ -1,0 +1,17 @@
+{
+ "project": "tinkerpop",
+ "kind": "image",
+ "target": "tinkerpop/gremlin-server@sha256:95442fecf2d205afa3847bcb8226fd6556a6591179452a02bd237f4fd8fa193f",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:6f2fb5586759c786db080d904d08fdb625cffe3f08e9340f85d28eea31c1b6c2",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "apk": 2646
+ },
+ "java_runtimes": [],
+ "native_files_in_archives": 2,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 1
+}

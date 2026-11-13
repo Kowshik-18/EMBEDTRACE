@@ -1,0 +1,17 @@
+{
+ "project": "cloudstack",
+ "kind": "image",
+ "target": "apache/cloudstack-simulator@sha256:59db60234cd0ae7be289d79862de5818fbec4ac618d74b3af448efadbed77c95",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:59db60234cd0ae7be289d79862de5818fbec4ac618d74b3af448efadbed77c95",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 78322
+ },
+ "java_runtimes": [],
+ "native_files_in_archives": 39,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 24,
+ "unresolved": 10
+}

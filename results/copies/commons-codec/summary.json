@@ -1,0 +1,15 @@
+{
+ "project": "commons-codec",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/commons/codec/binaries/commons-codec-1.23.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:34a8cb4bafd3bb56fed56f1609b9c45f8cc25c31d7fdc9fca8df498d9b73efb4b8636b5f8a1c7d6439cca200b35a991867287b4ca14159af8cef4ca56a04559a",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

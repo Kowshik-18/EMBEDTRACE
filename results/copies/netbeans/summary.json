@@ -1,0 +1,15 @@
+{
+ "project": "netbeans",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/netbeans/netbeans/31/netbeans-31-bin.zip",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:108edccc78075b0bc87e3e055170fd03c17442cd1748b68297b49ebe003f8fa5cc7cb265c2fbbe2d5c802d0b29fe5654b89a78a8fd92b784147a7a982f1a42df",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 6,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 1,
+ "unresolved": 4
+}

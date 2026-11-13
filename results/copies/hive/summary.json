@@ -1,0 +1,22 @@
+{
+ "project": "hive",
+ "kind": "image",
+ "target": "apache/hive@sha256:b19bb5bd01f233a3f99d941ebf08acaff68c55911dd5fa42ea03928e51860b91",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:ec5d9c344d2b1d020fcf2d8a84408b6bd38be8eea0713b1df31243830d3535ee",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "21.0.11+10-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 26,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 21,
+ "unresolved": 11
+}

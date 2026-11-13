@@ -1,0 +1,24 @@
+{
+ "project": "zookeeper",
+ "kind": "image",
+ "target": "zookeeper@sha256:7654645af057c76db8facc77c5d6fc0749f0f566bdd5c41efe6e3b824d1248c0",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:3b91be30a1e7294956efab116f2189b87ec586b356e81ad4ea6452742323ecb8",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 15593
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "17.0.21+9",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 4,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 11,
+ "unresolved": 1
+}

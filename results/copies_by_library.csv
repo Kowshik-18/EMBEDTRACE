@@ -1,0 +1,12 @@
+carrier,library,copies,projects,versions,version_list
+Java archive,snappy,65,16,3,1.1.10 1.1.7 1.1.8
+Java archive,zstd,46,14,7,1.4.5 1.4.9 1.5.0 1.5.2 1.5.5 1.5.6 1.5.7
+Java archive,libffi,27,14,5,3.0.10 3.2.1 3.3 3.4.2 3.4.4
+Java archive,lz4,17,14,2,1.10.0 1.9.2
+Java runtime,zlib,52,17,2,1.3.1 1.3.2
+Java runtime,jpeg,35,18,1,6b
+Java runtime,harfbuzz,18,18,4,10.4.0 11.2.0 12.3.2 14.2.0
+Java runtime,lcms,18,18,2,2.17 2.19.1
+Java runtime,giflib,17,17,3,5.2.2 6.1.2 6.1.3
+Java runtime,libpng,17,17,4,1.6.47 1.6.51 1.6.57 1.6.58
+Java runtime,freetype,17,17,3,2.13.3 2.14.2 2.14.3

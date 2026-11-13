@@ -1,0 +1,24 @@
+{
+ "project": "pulsar",
+ "kind": "image",
+ "target": "apachepulsar/pulsar@sha256:4507075d8c11b34629f3a0b41f48e3c659951e601538562ee0c088cd2c737ec0",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:fb95bc2d73687ef7df3a21f3424a897860926e25303bd3857898ab887ead85c3",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "apk": 2772
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/jvm",
+   "vendor": null,
+   "version": null,
+   "libc": "musl"
+  }
+ ],
+ "native_files_in_archives": 16,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 4,
+ "unresolved": 14
+}

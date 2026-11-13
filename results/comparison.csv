@@ -1,0 +1,988 @@
+project,carrier,file,library,version,generator,library_at_copy,library_elsewhere,carrier_components
+activemq,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,syft,,,libfontmanager.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libjli.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+activemq,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,syft,,,libsplashscreen.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,syft,,,libsplashscreen.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,trivy,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libsplashscreen.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,cdxgen,,,
+activemq,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libzip.so@
+activemq,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,10.4.0,syft,,,libfontmanager.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,10.4.0,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,10.4.0,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,syft,,libfreetype6@2.13.2+dfsg-1build3 (OS package),libfreetype.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,trivy,,libfreetype6@2.13.2+dfsg-1build3 (OS package),
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libjli.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,syft,,,libsplashscreen.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,syft,,,libsplashscreen.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,trivy,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libsplashscreen.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,cdxgen,,,
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libzip.so@
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+activemq-artemis,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+beam,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.1 (OS package),libfreetype.so@
+beam,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.1 (OS package),
+beam,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+beam,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libjli.so@
+beam,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+beam,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+beam,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libsplashscreen.so@
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+beam,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+beam,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libzip.so@
+beam,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+beam,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+bookkeeper,Java archive,/opt/bookkeeper/lib/at.yawk.lz4-lz4-java-1.11.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.3-2build2 (OS package),at.yawk.lz4-lz4-java-1.11.1.jar@; lz4-java@1.11.1
+bookkeeper,Java archive,/opt/bookkeeper/lib/at.yawk.lz4-lz4-java-1.11.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.3-2build2 (OS package),lz4-java@1.11.1
+bookkeeper,Java archive,/opt/bookkeeper/lib/at.yawk.lz4-lz4-java-1.11.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.11.1
+bookkeeper,Java archive,/opt/bookkeeper/lib/org.xerial.snappy-snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,org.xerial.snappy-snappy-java-1.1.10.5.jar@; snappy-snappy-java@1.1.10.5
+bookkeeper,Java archive,/opt/bookkeeper/lib/org.xerial.snappy-snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.5
+bookkeeper,Java archive,/opt/bookkeeper/lib/org.xerial.snappy-snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,org.xerial.snappy-snappy-java@1.1.10.5
+camel,Java archive,/org.apache.camel/camel-launcher/camel-launcher-4.19.0.jar > BOOT-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,,jna@5.12.1
+camel,Java archive,/org.apache.camel/camel-launcher/camel-launcher-4.19.0.jar > BOOT-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,,
+camel,Java archive,/org.apache.camel/camel-launcher/camel-launcher-4.19.0.jar > BOOT-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cassandra,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,,libfreetype.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),libjli.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),
+cassandra,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),libsplashscreen.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),
+cassandra,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+cassandra,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),libzip.so@
+cassandra,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1+b1 (OS package),
+cassandra,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+cassandra,Java archive,/opt/cassandra/lib/jffi-1.3.11-native.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,syft,,libffi8@3.4.8-2 (OS package),jffi-1.3.11-native.jar@; native@1.3.11-native
+cassandra,Java archive,/opt/cassandra/lib/jffi-1.3.11-native.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,trivy,,libffi8@3.4.8-2 (OS package),jffi@1.3.11
+cassandra,Java archive,/opt/cassandra/lib/jffi-1.3.11-native.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,cdxgen,,,jffi@1.3.11
+cassandra,Java archive,/opt/cassandra/lib/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.8-2 (OS package),jna-5.13.0.jar@; jna@5.13.0
+cassandra,Java archive,/opt/cassandra/lib/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.8-2 (OS package),jna@5.13.0
+cassandra,Java archive,/opt/cassandra/lib/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,jna@5.13.0
+cassandra,Java archive,/opt/cassandra/lib/lz4-java-1.10.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.10.0-4 (OS package),lz4-java-1.10.1.jar@; lz4-java@1.10.1
+cassandra,Java archive,/opt/cassandra/lib/lz4-java-1.10.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.10.0-4 (OS package),lz4-java@1.10.1
+cassandra,Java archive,/opt/cassandra/lib/lz4-java-1.10.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.1
+cassandra,Java archive,/opt/cassandra/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+cassandra,Java archive,/opt/cassandra/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+cassandra,Java archive,/opt/cassandra/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+cassandra,Java archive,/opt/cassandra/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,syft,,libzstd1@1.5.7+dfsg-1 (OS package),zstd-jni-1.5.7-2.jar@; zstd-jni@1.5.7-2
+cassandra,Java archive,/opt/cassandra/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,trivy,,libzstd1@1.5.7+dfsg-1 (OS package),zstd-jni@1.5.7-2
+cassandra,Java archive,/opt/cassandra/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,cdxgen,,,zstd-jni@1.5.7-2
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.4.5-6/zstd-jni-1.4.5-6.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.4.5-6.jar@; zstd-jni@1.4.5-6
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.4.5-6/zstd-jni-1.4.5-6.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.4.5-6
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.4.5-6/zstd-jni-1.4.5-6.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,cdxgen,,,zstd-jni-1.4.5@6
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.5-11.jar@; zstd-jni@1.5.5-11
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.5-11
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.5-11/zstd-jni-1.5.5-11.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,cdxgen,,,zstd-jni-1.5.5@11
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.6-3/zstd-jni-1.5.6-3.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.6-3.jar@; zstd-jni@1.5.6-3
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.6-3/zstd-jni-1.5.6-3.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.6-3
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.6-3/zstd-jni-1.5.6-3.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,cdxgen,,,zstd-jni-1.5.6@3
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar > linux/amd64/libzstd-jni-1.5.7-4.so,zstd,1.5.7,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.7-4.jar@; zstd-jni@1.5.7-4
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar > linux/amd64/libzstd-jni-1.5.7-4.so,zstd,1.5.7,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.7-4
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-4/zstd-jni-1.5.7-4.jar > linux/amd64/libzstd-jni-1.5.7-4.so,zstd,1.5.7,cdxgen,,,zstd-jni-1.5.7@4
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-6/zstd-jni-1.5.7-6.jar > linux/amd64/libzstd-jni-1.5.7-6.so,zstd,1.5.7,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.7-6.jar@; zstd-jni@1.5.7-6
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-6/zstd-jni-1.5.7-6.jar > linux/amd64/libzstd-jni-1.5.7-6.so,zstd,1.5.7,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.7-6
+cloudstack,Java archive,/root/.m2/repository/com/github/luben/zstd-jni/1.5.7-6/zstd-jni-1.5.7-6.jar > linux/amd64/libzstd-jni-1.5.7-6.so,zstd,1.5.7,cdxgen,,,zstd-jni-1.5.7@6
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.12.1.jar@; jna@5.12.1
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.5.0.jar@; jna@5.5.0
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.5.0
+cloudstack,Java archive,/root/.m2/repository/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,cdxgen,,,jna@5.5.0
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,cloud-client-ui-4.23.0.0.jar@; cloud-client-ui@4.23.0.0; sizeof-agent@1.0.1
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,cloud-client-ui@4.23.0.0
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),cloud-client-ui-4.23.0.0.jar@; cloud-client-ui@4.23.0.0; sizeof-agent@1.0.1
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-client-ui/4.23.0.0/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,cdxgen,,,cloud-client-ui@4.23.0.0
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,
+cloudstack,Java archive,/root/.m2/repository/org/apache/cloudstack/cloud-engine-service/4.23.0.0/cloud-engine-service-4.23.0.0.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/.m2/repository/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,syft,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java-1.7.1.jar@; lz4-java@1.7.1
+cloudstack,Java archive,/root/.m2/repository/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,trivy,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java@1.7.1
+cloudstack,Java archive,/root/.m2/repository/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,cdxgen,,,lz4-java@1.7.1
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.7/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,snappy-java-1.1.10.7.jar@; snappy-java@1.1.10.7
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.7/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.7/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.7.7/snappy-java-1.1.7.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,syft,,snappy@0.4,snappy-java-1.1.7.7.jar@; snappy-java@1.1.7.7
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.7.7/snappy-java-1.1.7.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,trivy,,snappy@0.4,snappy-java@1.1.7.7
+cloudstack,Java archive,/root/.m2/repository/org/xerial/snappy/snappy-java/1.1.7.7/snappy-java-1.1.7.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,cdxgen,,snappy@0.4,snappy-java@1.1.7.7
+cloudstack,Java archive,/root/agent/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.12.1.jar@; jna@5.12.1
+cloudstack,Java archive,/root/agent/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/agent/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,cloud-client-ui-4.23.0.0.jar@; cloud-client-ui@4.23.0.0; sizeof-agent@1.0.1
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,cloud-client-ui@4.23.0.0
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),cloud-client-ui-4.23.0.0.jar@; cloud-client-ui@4.23.0.0; sizeof-agent@1.0.1
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),
+cloudstack,Java archive,/root/client/target/cloud-client-ui-4.23.0.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.5,cdxgen,,,cloud-client-ui@4.23.0.0
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,
+cloudstack,Java archive,/root/engine/service/target/engine.war > WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.12.1.jar@; jna@5.12.1
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,snappy-java-1.1.10.7.jar@; snappy-java@1.1.10.7
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/engine/service/target/engine/WEB-INF/lib/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.5.0.jar@; jna@5.5.0
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.5.0
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/jna-5.5.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,cdxgen,,,jna@5.5.0
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,snappy-java-1.1.10.7.jar@; snappy-java@1.1.10.7
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/plugins/hypervisors/kvm/target/dependencies/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,snappy@0.4,snappy-java@1.1.10.7
+cloudstack,Java archive,/root/usage/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.12.1.jar@; jna@5.12.1
+cloudstack,Java archive,/root/usage/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.12.1
+cloudstack,Java archive,/root/usage/target/dependencies/jna-5.12.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.2,cdxgen,,,jna@5.12.1
+flink,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+flink,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+flink,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),
+flink,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+flink,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libjli.so@
+flink,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+flink,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+flink,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libsplashscreen.so@
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+flink,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+flink,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libzip.so@
+flink,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+flink,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+flink,Java archive,/opt/flink/lib/flink-dist-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-dist-2.3.0.jar@; flink-dist@2.3.0; flink-rpc-akka@2.3.0
+flink,Java archive,/opt/flink/lib/flink-dist-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),
+flink,Java archive,/opt/flink/lib/flink-dist-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-dist@2.3.0
+flink,Java archive,/opt/flink/opt/flink-azure-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-azure-fs-hadoop-2.3.0.jar@; flink-azure-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-azure-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),flink-azure-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-azure-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-azure-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-gs-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-gs-fs-hadoop-2.3.0.jar@; flink-gs-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-gs-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),flink-gs-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-gs-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-gs-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-oss-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-oss-fs-hadoop-2.3.0.jar@; flink-oss-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-oss-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),flink-oss-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-oss-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-oss-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-s3-fs-hadoop-2.3.0.jar@; flink-s3-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),flink-s3-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-hadoop-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-s3-fs-hadoop@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-presto-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,libsnappy1v5@1.1.10-1build1 (OS package),flink-s3-fs-presto-2.3.0.jar@; flink-s3-fs-presto@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-presto-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,libsnappy1v5@1.1.10-1build1 (OS package),flink-s3-fs-presto@2.3.0
+flink,Java archive,/opt/flink/opt/flink-s3-fs-presto-2.3.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,flink-s3-fs-presto@2.3.0
+groovy,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),
+groovy,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libjli.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+groovy,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+groovy,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libsplashscreen.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+groovy,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+groovy,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libzip.so@
+groovy,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+groovy,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+groovy,Java archive,/opt/groovy/lib/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.19.1.jar@; jna@5.19.1
+groovy,Java archive,/opt/groovy/lib/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.19.1
+groovy,Java archive,/opt/groovy/lib/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,jna@5.19.1
+hadoop,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,syft,,,libfontmanager.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,syft,,libfreetype6@2.13.2+dfsg-1ubuntu0.1 (OS package),libfreetype.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,trivy,,libfreetype6@2.13.2+dfsg-1ubuntu0.1 (OS package),
+hadoop,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libjli.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+hadoop,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,syft,,,libsplashscreen.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.51,syft,,,libsplashscreen.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.51,trivy,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.51,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libsplashscreen.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+hadoop,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,cdxgen,,,
+hadoop,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libzip.so@
+hadoop,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+hadoop,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,cdxgen,,,
+hadoop,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java-1.10.4.jar@; lz4-java@1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java@1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.6-4.jar@; zstd-jni@1.5.6-4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.6-4
+hadoop,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-4
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.5.0.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.5.0.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.5.0.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,syft,,libffi8@3.4.6-1build1 (OS package),jna-5.2.0.jar@; jna@5.2.0
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,trivy,,libffi8@3.4.6-1build1 (OS package),jna@5.2.0
+hadoop,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,cdxgen,,,jna@5.2.0
+hbase,Java archive,/hbase-3.0.0/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,,lz4-java-1.10.4.jar@; lz4-java@1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,,lz4-java@1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/lz4-java-1.10.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hbase,Java archive,/hbase-3.0.0/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,syft,,,zstd-jni-1.5.7-2.jar@; zstd-jni@1.5.7-2
+hbase,Java archive,/hbase-3.0.0/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,trivy,,,zstd-jni@1.5.7-2
+hbase,Java archive,/hbase-3.0.0/lib/zstd-jni-1.5.7-2.jar > linux/amd64/libzstd-jni-1.5.7-2.so,zstd,1.5.7,cdxgen,,,zstd-jni@1.5.7-2
+hbase,Java archive,/hbase-3.0.0/lib/ruby/jruby-complete-9.4.14.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,syft,,,backport9@1.13; bcpkix-jdk18on@1.79; bcprov-jdk18on@1.79; bctls-jdk18on@1.79; bcutil-jdk18on@1.79; cparse-jruby@UNKNOWN; crac@1.5.0; digest@UNKNOWN; dirgra@0.3; escape@UNKNOWN; generator@UNKNOWN; invokebinder@1.13; jcodings@1.0.63; jffi@1.3.13; jitescript@0.4.1; jline@2.14.6; jnr-a64asm@1.0.0; jnr-c
+hbase,Java archive,/hbase-3.0.0/lib/ruby/jruby-complete-9.4.14.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,trivy,,,backport9@1.13; crac@1.5.0; dirgra@0.3; invokebinder@1.13; jcodings@1.0.63; jffi@1.3.13; jitescript@0.4.1; jnr-a64asm@1.0.0; jnr-constants@0.10.4; jnr-enxio@0.32.18; jnr-ffi@2.2.17; jnr-netdb@1.2.0; jnr-posix@3.1.20; jnr-unixsocket@0.38.23; jnr-x86asm@1.0.2; joda-time@2.12.7; joni@2.2.5; jruby-base@
+hbase,Java archive,/hbase-3.0.0/lib/ruby/jruby-complete-9.4.14.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.4.4,cdxgen,,,joni@2.2.5
+hive,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,syft,,harfbuzz@2.7.4-10.el9 (OS package),libfontmanager.so@
+hive,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,trivy,,harfbuzz@2.7.4-10.el9 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,syft,,freetype@2.10.4-10.el9_5 (OS package),libfreetype.so@
+hive,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,trivy,,freetype@2.10.4-10.el9_5 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+hive,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+hive,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib@1.2.11-40.el9 (OS package),libjli.so@
+hive,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib@1.2.11-40.el9 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+hive,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+hive,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.2,syft,,,libsplashscreen.so@
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.2,trivy,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.2,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.57,syft,,libpng@2:1.6.37-15.el9_8.2 (OS package),libsplashscreen.so@
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.57,trivy,,libpng@2:1.6.37-15.el9_8.2 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.57,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib@1.2.11-40.el9 (OS package),libsplashscreen.so@
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib@1.2.11-40.el9 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+hive,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib@1.2.11-40.el9 (OS package),libzip.so@
+hive,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib@1.2.11-40.el9 (OS package),
+hive,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+hive,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/common/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/hdfs/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,syft,,lz4-libs@1.9.3-5.el9 (OS package),lz4-java-1.7.1.jar@; lz4-java@1.7.1
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,trivy,,lz4-libs@1.9.3-5.el9 (OS package),lz4-java@1.7.1
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,cdxgen,,,lz4-java@1.7.1
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.2-1.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,syft,,libzstd@1.5.5-1.el9 (OS package),zstd-jni-1.5.2-1.jar@; zstd-jni@1.5.2-1
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.2-1.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,trivy,,libzstd@1.5.5-1.el9 (OS package),zstd-jni@1.5.2-1
+hive,Java archive,/opt/hadoop/share/hadoop/tools/lib/zstd-jni-1.5.2-1.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,cdxgen,,,zstd-jni@1.5.2-1
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.4.1.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.4.1.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.4.1.war > WEB-INF/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,syft,,libffi@3.4.2-8.el9 (OS package),jna-5.2.0.jar@; jna@5.2.0
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,trivy,,libffi@3.4.2-8.el9 (OS package),jna@5.2.0
+hive,Java archive,/opt/hadoop/share/hadoop/yarn/lib/jna-5.2.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,cdxgen,,,jna@5.2.0
+hive,Java archive,/opt/hive/lib/hive-exec-4.2.1.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,syft,,libzstd@1.5.5-1.el9 (OS package),HikariCP@4.0.3; aircompressor@2.0.2; antlr-runtime@3.5.2; avro-mapred@1.12.0; avro@1.12.0; commons-lang3@3.14.0; commons-lang@2.6; datasketches-hive@2.0.0; datasketches-java@6.0.0; datasketches-memory@2.2.0; esri-geometry-api@2.2.4; guava@22.0; hive-common@4.2.1; hive-exec-4.2.1.jar@; hive-exec@4.2.
+hive,Java archive,/opt/hive/lib/hive-exec-4.2.1.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,trivy,,libzstd@1.5.5-1.el9 (OS package),HikariCP@4.0.3; aircompressor@2.0.2; antlr-runtime@3.5.2; avro-mapred@1.12.0; avro@1.12.0; commons-lang3@3.14.0; commons-lang@2.6; datasketches-hive@2.0.0; datasketches-java@6.0.0; datasketches-memory@2.2.0; esri-geometry-api@2.2.4; guava@22.0; hive-common@4.2.1; hive-exec@4.2.1; hive-llap-client@4.
+hive,Java archive,/opt/hive/lib/hive-exec-4.2.1.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,cdxgen,,,threeten-extra@1.8.0
+hive,Java archive,/opt/hive/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,syft,,lz4-libs@1.9.3-5.el9 (OS package),lz4-java-1.7.1.jar@; lz4-java@1.7.1
+hive,Java archive,/opt/hive/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,trivy,,lz4-libs@1.9.3-5.el9 (OS package),lz4-java@1.7.1
+hive,Java archive,/opt/hive/lib/lz4-java-1.7.1.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.9.2,cdxgen,,,lz4-java@1.7.1
+hive,Java archive,/opt/hive/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hive,Java archive,/opt/hive/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hive/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/hive/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,syft,,libzstd@1.5.5-1.el9 (OS package),zstd-jni-1.5.6-10.jar@; zstd-jni@1.5.6-10
+hive,Java archive,/opt/hive/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,trivy,,libzstd@1.5.5-1.el9 (OS package),zstd-jni@1.5.6-10
+hive,Java archive,/opt/hive/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-10
+hive,Java archive,/opt/tez/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.4.jar@; snappy-java@1.1.10.4
+hive,Java archive,/opt/tez/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.4
+hive,Java archive,/opt/tez/lib/snappy-java-1.1.10.4.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.4
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-1.20/iceberg-flink-runtime-1.20-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,syft,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-1.20-1.12.0.jar@; iceberg
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-1.20/iceberg-flink-runtime-1.20-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,trivy,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-1.20@1.12.0; jackson-anno
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-1.20/iceberg-flink-runtime-1.20-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,cdxgen,,,threeten-extra@1.7.1
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.1/iceberg-flink-runtime-2.1-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,syft,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.1-1.12.0.jar@; iceberg-
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.1/iceberg-flink-runtime-2.1-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,trivy,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.2@1.12.0; jackson-annot
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.1/iceberg-flink-runtime-2.1-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,cdxgen,,,threeten-extra@1.7.1
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.2/iceberg-flink-runtime-2.2-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,syft,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.2-1.12.0.jar@; iceberg-
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.2/iceberg-flink-runtime-2.2-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,trivy,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.2@1.12.0; jackson-annot
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.2/iceberg-flink-runtime-2.2-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,cdxgen,,,threeten-extra@1.7.1
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.3/iceberg-flink-runtime-2.3-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,syft,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.3-1.12.0.jar@; iceberg-
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.3/iceberg-flink-runtime-2.3-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,trivy,,,aircompressor@2.0.3; avro@1.12.2; datasketches-java@6.2.0; datasketches-memory@3.0.2; error_prone_annotations@2.49.0; failsafe@3.3.2; failureaccess@1.0.3; guava@33.7.1-jre; hive-storage-api@2.8.1; httpclient5@5.6.4; httpcore5-h2@5.4.3; httpcore5@5.4.3; iceberg-flink-runtime-2.2@1.12.0; jackson-annot
+iceberg,Java archive,/org.apache.iceberg/iceberg-flink-runtime-2.3/iceberg-flink-runtime-2.3-1.12.0.jar > linux/amd64/libzstd-jni-1.5.7-3.so,zstd,1.5.7,cdxgen,,,threeten-extra@1.7.1
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-jpa-integration-tests-process/kogito-addons-springboot-data-index-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,syft,,,jna@5.8.0
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-jpa-integration-tests-process/kogito-addons-springboot-data-index-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,trivy,,,
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-jpa-integration-tests-process/kogito-addons-springboot-data-index-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,cdxgen,,,jna@5.8.0
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,syft,,,jna@5.8.0
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,trivy,,,
+incubator-kie-drools,Java archive,/org.kie/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process/kogito-addons-springboot-data-index-persistence-jpa-integration-tests-process-10.2.0.jar > BOOT-INF/lib/jna-5.8.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.3,cdxgen,,,jna@5.8.0
+kafka,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,syft,,,libfontmanager.so@
+kafka,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,trivy,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,cdxgen,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,syft,,freetype@2.14.1-r0 (OS package),libfreetype.so@
+kafka,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,trivy,,freetype@2.14.1-r0 (OS package),
+kafka,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.2,cdxgen,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+kafka,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib@1.3.2-r0 (OS package),libjli.so@
+kafka,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib@1.3.2-r0 (OS package),
+kafka,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+kafka,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+kafka,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+kafka,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+kafka,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib@1.3.2-r0 (OS package),libzip.so@
+kafka,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib@1.3.2-r0 (OS package),
+kafka,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+kafka,Java archive,/opt/kafka/libs/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,,lz4-java-1.10.2.jar@; lz4-java@1.10.2
+kafka,Java archive,/opt/kafka/libs/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,,lz4-java@1.10.2
+kafka,Java archive,/opt/kafka/libs/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.2
+kafka,Java archive,/opt/kafka/libs/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.7.jar@; snappy-java@1.1.10.7
+kafka,Java archive,/opt/kafka/libs/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.7
+kafka,Java archive,/opt/kafka/libs/snappy-java-1.1.10.7.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.7
+kafka,Java archive,/opt/kafka/libs/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,syft,,zstd-libs@1.5.7-r2 (OS package),zstd-jni-1.5.6-10.jar@; zstd-jni@1.5.6-10
+kafka,Java archive,/opt/kafka/libs/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,trivy,,zstd-libs@1.5.7-r2 (OS package),zstd-jni@1.5.6-10
+kafka,Java archive,/opt/kafka/libs/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-10
+karaf,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),unpack200@
+karaf,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+karaf,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libjli.so@
+karaf,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+karaf,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,syft,,,libfontmanager.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.1 (OS package),libfreetype.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.1 (OS package),
+karaf,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+karaf,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libsplashscreen.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+karaf,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+karaf,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),libzip.so@
+karaf,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.1 (OS package),
+karaf,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+maven,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+maven,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),
+maven,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+maven,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libjli.so@
+maven,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+maven,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+maven,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libsplashscreen.so@
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+maven,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+maven,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libzip.so@
+maven,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+maven,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+netbeans,Java archive,/netbeans/platform/modules/ext/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,,jna-5.19.1.jar@; jna@5.19.1
+netbeans,Java archive,/netbeans/platform/modules/ext/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,,jna@5.19.1
+netbeans,Java archive,/netbeans/platform/modules/ext/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,jna@5.19.1
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.12.1+dfsg-5+deb12u4 (OS package),libfreetype.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.12.1+dfsg-5+deb12u4 (OS package),
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/liblcms.so,lcms,2.19.1,trivy,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,libpng,1.6.58,syft,,libpng16-16@1.6.39-2+deb12u5 (OS package),libsplashscreen.so@
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,libpng,1.6.58,trivy,,libpng16-16@1.6.39-2+deb12u5 (OS package),
+nifi,Java runtime,/usr/lib/jvm/jdk-21.0.12.1-bellsoft-x86_64/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-avro-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1 (OS package),lz4-java@1.11.2
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-azure-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.4-1 (OS package),jna@5.13.0
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-azure-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-azure-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.13.0.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,syft,,libzstd1@1.5.4+dfsg2-5 (OS package); zstd@0.13.3,zstd-jni@1.5.7-16
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,trivy,,libzstd1@1.5.4+dfsg2-5 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-compress-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-framework-zookeeper-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-groovyx-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.4-1 (OS package),jna@5.19.1
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-groovyx-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-groovyx-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-iceberg-parquet-writer-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1 (OS package),lz4-java@1.11.2
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-3-service-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1 (OS package),lz4-java@1.11.2
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/lz4-java-1.11.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-kafka-service-aws-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-record-serialization-services-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-scripting-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.4-1 (OS package),jna@5.19.1
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-scripting-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-scripting-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java@1.1.10.8
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-nar-2.12.0.nar > META-INF/bundled-dependencies/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-shared-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,syft,,libzstd1@1.5.4+dfsg2-5 (OS package); zstd@0.13.3,zstd-jni@1.5.7-16
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-shared-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,trivy,,libzstd1@1.5.4+dfsg2-5 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-standard-shared-nar-2.12.0.nar > META-INF/bundled-dependencies/zstd-jni-1.5.7-16.jar > linux/amd64/libzstd-jni-1.5.7-16.so,zstd,1.5.7,cdxgen,,,
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-windows-event-log-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi8@3.4.4-1 (OS package),jna@5.19.1
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-windows-event-log-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi8@3.4.4-1 (OS package),
+nifi,Java archive,/opt/nifi/nifi-current/lib/nifi-windows-event-log-nar-2.12.0.nar > META-INF/bundled-dependencies/jna-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > linux/amd64/libzstd-jni-1.5.7-7.so,zstd,1.5.7,syft,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > linux/amd64/libzstd-jni-1.5.7-7.so,zstd,1.5.7,trivy,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > linux/amd64/libzstd-jni-1.5.7-7.so,zstd,1.5.7,cdxgen,,,threeten-extra@1.9.0
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,threeten-extra@1.9.0
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,threeten-extra@1.9.0
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,aircompressor@2.0.2; avro@1.11.4; brotli4j@1.20.0; commons-cli@1.9.0; commons-codec@1.15; commons-collections4@4.4; commons-compress@1.26.1; commons-configuration2@2.10.1; commons-io@2.16.1; commons-lang3@3.18.0; commons-logging@1.3.0; commons-math3@3.6.1; commons-net@3.9.0; commons-text@1.14.0; cur
+orc,Java archive,/org.apache.orc/orc-tools/orc-tools-2.3.1-uber.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,threeten-extra@1.9.0
+pulsar,Java archive,/pulsar/lib/at.yawk.lz4-lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,,at.yawk.lz4-lz4-java-1.11.4.jar@; lz4-java@1.11.4
+pulsar,Java archive,/pulsar/lib/at.yawk.lz4-lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,,lz4-java@1.11.4
+pulsar,Java archive,/pulsar/lib/at.yawk.lz4-lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.11.4
+pulsar,Java archive,/pulsar/lib/net.java.dev.jna-jna-jpms-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,libffi@3.5.2-r1 (OS package),jna-jna-jpms@5.19.1; net.java.dev.jna-jna-jpms-5.19.1.jar@
+pulsar,Java archive,/pulsar/lib/net.java.dev.jna-jna-jpms-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,libffi@3.5.2-r1 (OS package),jna-jpms@5.19.1
+pulsar,Java archive,/pulsar/lib/net.java.dev.jna-jna-jpms-5.19.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,jna-jpms@5.19.1
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,org.xerial.snappy-snappy-java-1.1.10.8.jar@; snappy-snappy-java@1.1.10.8
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.8
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.8
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,org.xerial.snappy-snappy-java-1.1.10.8.jar@; snappy-snappy-java@1.1.10.8
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.8
+pulsar,Java archive,/pulsar/lib/org.xerial.snappy-snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.8
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/jna-4.2.2.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,syft,,libffi8@3.4.6-1build1 (OS package),jna-4.2.2.jar@; jna@4.2.2
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/jna-4.2.2.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,trivy,,libffi8@3.4.6-1build1 (OS package),jna@4.2.2
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/jna-4.2.2.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.2.1,cdxgen,,,jna@4.2.2
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/lz4-java-1.10.3.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java-1.10.3.jar@; lz4-java@1.10.3
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/lz4-java-1.10.3.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java@1.10.3
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/lz4-java-1.10.3.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.3
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/zstd-jni-1.5.2-2.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.2-2.jar@; zstd-jni@1.5.2-2
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/zstd-jni-1.5.2-2.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.2-2
+rocketmq,Java archive,/home/rocketmq/rocketmq-5.5.0/lib/zstd-jni-1.5.2-2.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,cdxgen,,,zstd-jni@1.5.2-2
+seatunnel,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),unpack200@
+seatunnel,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+seatunnel,Java runtime,/opt/java/openjdk/bin/unpack200,zlib,1.3.2,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libjli.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+seatunnel,Java runtime,/opt/java/openjdk/lib/jli/libjli.so,zlib,1.3.2,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,syft,,,libfontmanager.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,12.3.2,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),
+seatunnel,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libsplashscreen.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+seatunnel,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+seatunnel,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libzip.so@
+seatunnel,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+seatunnel,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cassandra-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,syft,,libffi8@3.5.2-4 (OS package),HdrHistogram@2.1.12; commons-lang3@3.18.0; connector-cassandra-3.1.0.jar@; connector-cassandra@3.1.0; connector-common@3.1.0; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; java-driver-core@4.14.0; java-driver-shaded-guava@25.1-jre-graal-sub-1; jcip-annotations@1.0-1; jcto
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cassandra-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,trivy,,libffi8@3.5.2-4 (OS package),HdrHistogram@2.1.12; commons-lang3@3.18.0; connector-cassandra@3.1.0; connector-common@3.1.0; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; java-driver-core@4.14.0; java-driver-shaded-guava@25.1-jre-graal-sub-1; jcip-annotations@1.0-1; jctools-core@3.1.0; jffi@1.3.1; jnr-
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cassandra-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,cdxgen,,,jctools-core@3.1.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cdc-base-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,HikariCP@4.0.3; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; argparse4j@0.7.0; commons-lang3@3.18.0; connector-cdc-base-3.1.0.jar@; connector-cdc-base@3.1.0; connector-common@3.1.0; debezium-api@1.9.8.Final; debezium-core@1.9.8.Final; debezium-embedded@1.9.8.Final; error_prone_anno
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cdc-base-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,HikariCP@4.0.3; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; argparse4j@0.7.0; commons-lang3@3.18.0; connector-cdc-base@3.1.0; connector-common@3.1.0; debezium-api@1.9.8.Final; debezium-core@1.9.8.Final; debezium-embedded@1.9.8.Final; error_prone_annotations@2.2.0; failureaccess@1.
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-cdc-base-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,reflections@0.9.12
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-druid-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-3.so,zstd,1.5.2,syft,,libzstd1@1.5.7+dfsg-3 (OS package),accessors-smart@1.2; aether-api@0.9.0.M2; aether-connector-file@0.9.0.M2; aether-connector-okhttp@0.0.9; aether-impl@0.9.0.M2; aether-spi@0.9.0.M2; aether-util@0.9.0.M2; airline-io@2.8.4; airline@2.8.4; animal-sniffer-annotations@1.17; antlr-runtime@3.4; antlr4-runtime@4.5.1; async-http-client-netty
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-druid-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-3.so,zstd,1.5.2,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),accessors-smart@1.2; aether-api@0.9.0.M2; aether-connector-file@0.9.0.M2; aether-connector-okhttp@0.0.9; aether-impl@0.9.0.M2; aether-spi@0.9.0.M2; aether-util@0.9.0.M2; airline-io@2.8.4; airline@2.8.4; animal-sniffer-annotations@1.17; antlr-runtime@3.4; antlr4-runtime@4.5.1; async-http-client-netty
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-druid-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-3.so,zstd,1.5.2,cdxgen,,,ion-java@1.0.2
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-bos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.5; commons-pool@1.6; connector-common@3.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-bos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.5; commons-pool@1.6; connector-common@3.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-bos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-cos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.5; commons-pool@1.6; connector-common@3.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-cos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.5; commons-pool@1.6; connector-common@3.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-cos-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-ftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-ftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-ftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-gcs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-gcs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-gcs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,threetenbp@1.7.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-hadoop-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-hadoop-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-hadoop-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-jindo-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.1.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-jindo-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.1.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-jindo-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-local-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-local-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-local-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-obs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; accessors-smart@1.2; aircompressor@0.10; animal-sniffer-annotations@1.17; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-beanutils@1.9.3; commons-cli@1.3.1; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compres
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-obs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; accessors-smart@1.2; aircompressor@0.10; animal-sniffer-annotations@1.17; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-beanutils@1.9.3; commons-cli@1.3.1; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compres
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-obs-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-oss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-s3-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-s3-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-s3-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-sftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-sftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-sftp-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-smb-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-smb-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-file-smb-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-fluss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.7-1.so,zstd,1.5.7,syft,,libzstd1@1.5.7+dfsg-3 (OS package),commons-lang3@3.18.0; connector-common@3.1.0; connector-fluss-3.1.0.jar@; connector-fluss@3.1.0; simpleclient@0.16.0; simpleclient_common@0.16.0; simpleclient_hotspot@0.16.0; simpleclient_httpserver@0.16.0; simpleclient_tracer_common@0.16.0; simpleclient_tracer_otel@0.16.0; simpleclient_tracer_otel_
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-fluss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.7-1.so,zstd,1.5.7,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),commons-lang3@3.18.0; connector-common@3.1.0; connector-fluss@3.1.0; simpleclient@0.16.0; simpleclient_common@0.16.0; simpleclient_hotspot@0.16.0; simpleclient_httpserver@0.16.0; simpleclient_tracer_common@0.16.0; simpleclient_tracer_otel@0.16.0; simpleclient_tracer_otel_agent@0.16.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-fluss-3.1.0.jar > linux/amd64/libzstd-jni-1.5.7-1.so,zstd,1.5.7,cdxgen,,,connector-fluss@3.1.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hbase-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,animal-sniffer-annotations@1.17; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.7.7; commons-beanutils@1.9.4; commons-cli@1.4; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configuration@1.6; commons-crypto@1.0.0; commons-io@2.11.0; c
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hbase-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,animal-sniffer-annotations@1.17; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.7.7; commons-beanutils@1.9.4; commons-cli@1.4; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configuration@1.6; commons-crypto@1.0.0; commons-io@2.11.0; c
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hbase-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,jetty-sslengine@6.1.26
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hive-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hive-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hive-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.9,syft,,libzstd1@1.5.7+dfsg-3 (OS package),aircompressor@0.25; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.10.1; commons-beanutils@1.9.4; commons-cli@1.5.0; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configur
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.9,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),aircompressor@0.25; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.10.1; commons-beanutils@1.9.4; commons-cli@1.5.0; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configur
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > linux/amd64/libzstd-jni.so,zstd,1.4.9,cdxgen,,,threeten-extra@1.5.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,aircompressor@0.25; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.10.1; commons-beanutils@1.9.4; commons-cli@1.5.0; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configur
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,aircompressor@0.25; animal-sniffer-annotations@1.17; aopalliance-repackaged@2.6.1; api-util@1.0.0-M20; audience-annotations@0.5.0; avro@1.10.1; commons-beanutils@1.9.4; commons-cli@1.5.0; commons-codec@1.13; commons-collections4@4.4; commons-collections@3.2.2; commons-compress@1.20; commons-configur
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-hudi-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,threeten-extra@1.5.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iceberg-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,aircompressor@2.0.3; annotations@2.31.30; apache-client@2.31.30; arns@2.31.30; auth@2.31.30; avro@1.12.1; aws-core@2.31.30; aws-json-protocol@2.31.30; aws-query-protocol@2.31.30; aws-xml-protocol@2.31.30; checksums-spi@2.31.30; checksums@2.31.30; commons-codec@1.13; commons-compress@1.20; commons-la
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iceberg-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,aircompressor@2.0.3; annotations@2.31.30; apache-client@2.31.30; arns@2.31.30; auth@2.31.30; avro@1.12.1; aws-core@2.31.30; aws-json-protocol@2.31.30; aws-query-protocol@2.31.30; aws-xml-protocol@2.31.30; checksums-spi@2.31.30; checksums@2.31.30; commons-codec@1.13; commons-compress@1.20; commons-la
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iceberg-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,eventstream@1.0.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,commons-io@2.11.0; connector-common@3.1.0; connector-iotdb-3.1.0.jar@; connector-iotdb@3.1.0; influxdb-thrift@0.13.1; iotdb-session@0.13.1; iotdb-thrift@0.13.1; istack-commons-runtime@4.0.1; jakarta.activation@2.0.1; jakarta.xml.bind-api@3.0.1; javax.activation-api@1.2.0; javax.annotation-api@1.3.2;
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,commons-io@2.11.0; connector-common@3.1.0; connector-iotdb@3.1.0; influxdb-thrift@0.13.1; iotdb-session@0.13.1; iotdb-thrift@0.13.1; istack-commons-runtime@4.0.1; jakarta.activation@2.0.1; jakarta.xml.bind-api@3.0.1; javax.activation-api@1.2.0; javax.annotation-api@1.3.2; jaxb-api@2.4.0-b180830.0359
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,txw2@3.0.2
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,snappy@0.4,antlr4-runtime@4.9.3; common@2.1.1-1; commons-codec@1.16.1; commons-io@2.14.0; commons-lang3@3.18.0; commons-logging@1.2; connector-common@3.1.0; connector-iotdb-v2-3.1.0.jar@; connector-iotdb-v2@3.1.0; httpclient@4.5.14; httpcore@4.4.16; iotdb-thrift-commons@2.0.6.1; isession-parent@2.0.6.1; pipe-a
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,snappy@0.4,antlr4-runtime@4.9.3; common@2.1.1-1; commons-codec@1.16.1; commons-io@2.14.0; commons-lang3@3.18.0; commons-logging@1.2; connector-common@3.1.0; connector-iotdb-v2@3.1.0; httpclient@4.5.14; httpcore@4.4.16; iotdb-thrift-commons@2.0.6.1; isession-parent@2.0.6.1; pipe-api@2.0.6.1; service-rpc@2.0.6.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,slf4j-api@2.0.9
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,syft,,libzstd1@1.5.7+dfsg-3 (OS package),antlr4-runtime@4.9.3; common@2.1.1-1; commons-codec@1.16.1; commons-io@2.14.0; commons-lang3@3.18.0; commons-logging@1.2; connector-common@3.1.0; connector-iotdb-v2-3.1.0.jar@; connector-iotdb-v2@3.1.0; httpclient@4.5.14; httpcore@4.4.16; iotdb-thrift-commons@2.0.6.1; isession-parent@2.0.6.1; pipe-a
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),antlr4-runtime@4.9.3; common@2.1.1-1; commons-codec@1.16.1; commons-io@2.14.0; commons-lang3@3.18.0; commons-logging@1.2; connector-common@3.1.0; connector-iotdb-v2@3.1.0; httpclient@4.5.14; httpcore@4.4.16; iotdb-thrift-commons@2.0.6.1; isession-parent@2.0.6.1; pipe-api@2.0.6.1; service-rpc@2.0.6.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-iotdb-v2-3.1.0.jar > linux/amd64/libzstd-jni-1.5.6-3.so,zstd,1.5.6,cdxgen,,,slf4j-api@2.0.9
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,syft,,libzstd1@1.5.7+dfsg-3 (OS package),animal-sniffer-annotations@1.17; avro@1.11.1; commons-compress@1.20; connector-common@3.1.0; connector-kafka-3.1.0.jar@; connector-kafka@3.1.0; error_prone_annotations@2.18.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; j2objc-annotations@2.8; jackson-annotations@2.15.4; jackson-core@2.15.4; jack
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),animal-sniffer-annotations@1.17; avro@1.11.1; commons-compress@1.20; connector-common@3.1.0; connector-kafka@3.1.0; error_prone_annotations@2.18.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; j2objc-annotations@2.8; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; jackson
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-1.so,zstd,1.5.2,cdxgen,,,animal-sniffer-annotations@1.17
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,animal-sniffer-annotations@1.17; avro@1.11.1; commons-compress@1.20; connector-common@3.1.0; connector-kafka-3.1.0.jar@; connector-kafka@3.1.0; error_prone_annotations@2.18.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; j2objc-annotations@2.8; jackson-annotations@2.15.4; jackson-core@2.15.4; jack
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,animal-sniffer-annotations@1.17; avro@1.11.1; commons-compress@1.20; connector-common@3.1.0; connector-kafka@3.1.0; error_prone_annotations@2.18.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; j2objc-annotations@2.8; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; jackson
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-kafka-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,animal-sniffer-annotations@1.17
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-maxcompute-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,ST4@4.3.4; aliyun-http-apache@0.2.16-beta; aliyun-java-auth@0.2.16-beta; aliyun-java-core@0.2.16-beta; animal-sniffer-annotations@1.17; antlr-runtime@3.5.3; antlr4-runtime@4.11.1; antlr4@4.11.1; arrow-format@15.0.1; arrow-memory-core@15.0.1; arrow-memory-netty@15.0.1; arrow-vector@15.0.1; commons-co
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-maxcompute-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,ST4@4.3.4; aliyun-http-apache@0.2.16-beta; aliyun-java-auth@0.2.16-beta; aliyun-java-core@0.2.16-beta; animal-sniffer-annotations@1.17; antlr-runtime@3.5.3; antlr4-runtime@4.11.1; antlr4@4.11.1; arrow-format@15.0.1; arrow-memory-core@15.0.1; arrow-memory-netty@15.0.1; arrow-vector@15.0.1; commons-co
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-maxcompute-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,snakeyaml@2.0
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,syft,,libzstd1@1.5.7+dfsg-3 (OS package),aircompressor@0.27; animal-sniffer-annotations@1.17; antlr4-runtime@4.9.3; avro@1.11.3; commons-compress@1.22; commons-lang3@3.12.0; commons-lang@2.6; commons-pool@1.6; connector-common@3.1.0; connector-paimon-3.1.0.jar@; connector-paimon@3.1.0; datasketches-java@4.2.0; datasketches-memory@2.2.0; er
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),aircompressor@0.27; animal-sniffer-annotations@1.17; antlr4-runtime@4.9.3; avro@1.11.3; commons-compress@1.22; commons-lang3@3.12.0; commons-lang@2.6; commons-pool@1.6; connector-common@3.1.0; connector-paimon@3.1.0; datasketches-java@4.2.0; datasketches-memory@2.2.0; error_prone_annotations@2.2.0; 
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > linux/amd64/libzstd-jni-1.5.5-11.so,zstd,1.5.5,cdxgen,,,threeten-extra@1.7.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,syft,,snappy@0.4,aircompressor@0.27; animal-sniffer-annotations@1.17; antlr4-runtime@4.9.3; avro@1.11.3; commons-compress@1.22; commons-lang3@3.12.0; commons-lang@2.6; commons-pool@1.6; connector-common@3.1.0; connector-paimon-3.1.0.jar@; connector-paimon@3.1.0; datasketches-java@4.2.0; datasketches-memory@2.2.0; er
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,trivy,,snappy@0.4,aircompressor@0.27; animal-sniffer-annotations@1.17; antlr4-runtime@4.9.3; avro@1.11.3; commons-compress@1.22; commons-lang3@3.12.0; commons-lang@2.6; commons-pool@1.6; connector-common@3.1.0; connector-paimon@3.1.0; datasketches-java@4.2.0; datasketches-memory@2.2.0; error_prone_annotations@2.2.0; 
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-paimon-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.8,cdxgen,,,threeten-extra@1.7.1
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-prometheus-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,syft,,snappy@0.4,accessors-smart@2.4.7; animal-sniffer-annotations@1.17; commons-codec@1.13; connector-common@3.1.0; connector-http-base@3.1.0; connector-prometheus-3.1.0.jar@; connector-prometheus@3.1.0; error_prone_annotations@2.2.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; httpclient@4.5.13; httpcore@4.4.16
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-prometheus-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,trivy,,snappy@0.4,accessors-smart@2.4.7; animal-sniffer-annotations@1.17; commons-codec@1.13; connector-common@3.1.0; connector-http-base@3.1.0; connector-prometheus@3.1.0; error_prone_annotations@2.2.0; failureaccess@1.0; gson@2.8.9; guava@27.0-jre; httpclient@4.5.13; httpcore@4.4.16; j2objc-annotations@1.1; json-sm
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-prometheus-3.1.0.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.7,cdxgen,,,animal-sniffer-annotations@1.17
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-rocketmq-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,syft,,libzstd1@1.5.7+dfsg-3 (OS package),commons-beanutils@1.9.4; commons-cli@1.2; commons-codec@1.13; commons-collections@3.2.2; commons-digester@2.1; commons-lang3@3.18.0; commons-validator@1.7; connector-common@3.1.0; connector-rocketmq-3.1.0.jar@; connector-rocketmq@3.1.0; fastjson@1.2.69_noneautotype; netty-all@4.1.65.Final; rocketmq-
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-rocketmq-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),commons-beanutils@1.9.4; commons-cli@1.2; commons-codec@1.13; commons-collections@3.2.2; commons-digester@2.1; commons-lang3@3.18.0; commons-validator@1.7; connector-common@3.1.0; connector-rocketmq@3.1.0; fastjson@1.2.69_noneautotype; netty-all@4.1.65.Final; rocketmq-acl@4.9.4; rocketmq-client@4.9.
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-rocketmq-3.1.0.jar > linux/amd64/libzstd-jni-1.5.2-2.so,zstd,1.5.2,cdxgen,,,snakeyaml@1.30
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-s3-redshift-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,syft,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-s3-redshift-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),SparseBitSet@1.2; aircompressor@0.10; annotations@15.0; audience-annotations@0.13.0; autolink@0.6.0; avro@1.10.2; commons-codec@1.13; commons-collections4@4.4; commons-compress@1.20; commons-csv@1.10.0; commons-lang3@3.18.0; commons-lang@2.6; commons-math3@3.6.1; commons-pool@1.6; connector-common@3
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-s3-redshift-3.1.0.jar > linux/amd64/libzstd-jni-1.5.0-1.so,zstd,1.5.0,cdxgen,,,terracotta-utilities-tools@0.0.15
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-web3j-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,syft,,libffi8@3.5.2-4 (OS package),Java-WebSocket@1.3.8; annotations@13.0; connector-common@3.1.0; connector-web3j-3.1.0.jar@; connector-web3j@3.1.0; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; jffi@1.2.17; jnr-a64asm@1.0.0; jnr-constants@0.9.11; jnr-enxio@0.19; jnr-ffi@2.1.9; jnr-posix@3.0.47; jnr-unixs
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-web3j-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,trivy,,libffi8@3.5.2-4 (OS package),Java-WebSocket@1.3.8; annotations@13.0; connector-common@3.1.0; connector-web3j@3.1.0; jackson-annotations@2.15.4; jackson-core@2.15.4; jackson-databind@2.15.4; jffi@1.2.17; jnr-a64asm@1.0.0; jnr-constants@0.9.11; jnr-enxio@0.19; jnr-ffi@2.1.9; jnr-posix@3.0.47; jnr-unixsocket@0.21; jnr-x86asm@1.0.2
+seatunnel,Java archive,/opt/seatunnel/connectors/connector-web3j-3.1.0.jar > jni/x86_64-Linux/libjffi-1.2.so,libffi,3.0.10,cdxgen,,,annotations@13.0
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,syft,,,libfontmanager.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,11.2.0,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,syft,,libfreetype6@2.13.2+dfsg-1ubuntu0.1 (OS package),libfreetype.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,trivy,,libfreetype6@2.13.2+dfsg-1ubuntu0.1 (OS package),
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.13.3,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libjli.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.1,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,syft,,,liblcms.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.17,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,syft,,,libsplashscreen.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,5.2.2,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,syft,,,libsplashscreen.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,trivy,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.47,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libsplashscreen.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.1,cdxgen,,,
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),libzip.so@
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.1 (OS package),
+shardingsphere,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.1,cdxgen,,,
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/jna-5.18.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,syft,,,jna-5.18.1.jar@; jna@5.18.1
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/jna-5.18.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,trivy,,,jna@5.18.1
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/jna-5.18.1.jar > com/sun/jna/linux-x86-64/libjnidispatch.so,libffi,3.4.4,cdxgen,,,jna@5.18.1
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,,lz4-java-1.11.4.jar@; lz4-java@1.11.4
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,,lz4-java@1.11.4
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.11.4
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.9.jar@; snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.9.jar@; snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/snappy-java-1.1.10.9.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.9
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,syft,,,zstd-jni-1.5.6-4.jar@; zstd-jni@1.5.6-4
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,trivy,,,zstd-jni@1.5.6-4
+shenyu,Java archive,/opt/shenyu-bootstrap/lib/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-4
+skywalking,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),
+skywalking,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libjli.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+skywalking,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libsplashscreen.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+skywalking,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+skywalking,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libzip.so@
+skywalking,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+skywalking,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+skywalking,Java archive,/skywalking/oap-libs/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.10.0-8 (OS package),lz4-java-1.11.4.jar@; lz4-java@1.11.4
+skywalking,Java archive,/skywalking/oap-libs/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.10.0-8 (OS package),lz4-java@1.11.4
+skywalking,Java archive,/skywalking/oap-libs/lz4-java-1.11.4.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.11.4
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.12.jar@; snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.12.jar@; snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/snappy-java-1.1.10.12.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.12
+skywalking,Java archive,/skywalking/oap-libs/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,syft,,libzstd1@1.5.7+dfsg-3 (OS package),zstd-jni-1.5.6-4.jar@; zstd-jni@1.5.6-4
+skywalking,Java archive,/skywalking/oap-libs/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,trivy,,libzstd1@1.5.7+dfsg-3 (OS package),zstd-jni@1.5.6-4
+skywalking,Java archive,/skywalking/oap-libs/zstd-jni-1.5.6-4.jar > linux/amd64/libzstd-jni-1.5.6-4.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-4
+solr,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+solr,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+solr,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.13.2+dfsg-1ubuntu0.2 (OS package),
+solr,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+solr,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libjli.so@
+solr,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+solr,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+solr,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libsplashscreen.so@
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+solr,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+solr,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),libzip.so@
+solr,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg-3.1ubuntu2.3 (OS package),
+solr,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,syft,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java-1.10.2.jar@; lz4-java@1.10.2
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,trivy,,liblz4-1@1.9.4-1build1.1 (OS package),lz4-java@1.10.2
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/lz4-java-1.10.2.jar > net/jpountz/util/linux/amd64/liblz4-java.so,lz4,1.10.0,cdxgen,,,lz4-java@1.10.2
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,syft,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni-1.5.6-10.jar@; zstd-jni@1.5.6-10
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,trivy,,libzstd1@1.5.5+dfsg2-2build1.1 (OS package),zstd-jni@1.5.6-10
+solr,Java archive,/opt/solr-10.1.0/modules/cross-dc/lib/zstd-jni-1.5.6-10.jar > linux/amd64/libzstd-jni-1.5.6-10.so,zstd,1.5.6,cdxgen,,,zstd-jni@1.5.6-10
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.8.jar@; snappy-java@1.1.10.8
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.8
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64-musl/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.8
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.8.jar@; snappy-java@1.1.10.8
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.8
+solr,Java archive,/opt/solr-10.1.0/server/solr-webapp/webapp/WEB-INF/lib/snappy-java-1.1.10.8.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.8
+tomcat,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),libfreetype.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.14.2+dfsg-1ubuntu0.2 (OS package),
+tomcat,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libjli.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+tomcat,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,,libsplashscreen.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libsplashscreen.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+tomcat,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+tomcat,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),libzip.so@
+tomcat,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.3.dfsg+really1.3.1-1ubuntu3.2 (OS package),
+tomcat,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,syft,,,libfontmanager.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,trivy,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfontmanager.so,harfbuzz,14.2.0,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,syft,,libfreetype6@2.11.1+dfsg-1ubuntu0.4 (OS package),libfreetype.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,trivy,,libfreetype6@2.11.1+dfsg-1ubuntu0.4 (OS package),
+zookeeper,Java runtime,/opt/java/openjdk/lib/libfreetype.so,freetype,2.14.3,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,syft,,,libjavajpeg.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,trivy,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjavajpeg.so,jpeg,6b,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,syft,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),libjli.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,trivy,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),
+zookeeper,Java runtime,/opt/java/openjdk/lib/libjli.so,zlib,1.3.2,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,syft,,,liblcms.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,trivy,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/liblcms.so,lcms,2.19.1,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,syft,,,libsplashscreen.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,trivy,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,giflib,6.1.3,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,syft,,,libsplashscreen.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,trivy,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,jpeg,6b,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,syft,,libpng16-16@1.6.37-3ubuntu0.7 (OS package),libsplashscreen.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,trivy,,libpng16-16@1.6.37-3ubuntu0.7 (OS package),
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,libpng,1.6.58,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,syft,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),libsplashscreen.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,trivy,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),
+zookeeper,Java runtime,/opt/java/openjdk/lib/libsplashscreen.so,zlib,1.3.2,cdxgen,,,
+zookeeper,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,syft,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),libzip.so@
+zookeeper,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,trivy,,zlib1g@1:1.2.11.dfsg-2ubuntu9.2 (OS package),
+zookeeper,Java runtime,/opt/java/openjdk/lib/libzip.so,zlib,1.3.2,cdxgen,,,
+zookeeper,Java archive,/apache-zookeeper-3.9.7-bin/lib/snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,syft,,,snappy-java-1.1.10.5.jar@; snappy-java@1.1.10.5
+zookeeper,Java archive,/apache-zookeeper-3.9.7-bin/lib/snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,trivy,,,snappy-java@1.1.10.5
+zookeeper,Java archive,/apache-zookeeper-3.9.7-bin/lib/snappy-java-1.1.10.5.jar > org/xerial/snappy/native/Linux/x86_64/libsnappyjava.so,snappy,1.1.10,cdxgen,,,snappy-java@1.1.10.5

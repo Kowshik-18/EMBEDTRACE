@@ -1,0 +1,24 @@
+{
+ "project": "shardingsphere",
+ "kind": "image",
+ "target": "apache/shardingsphere-proxy@sha256:a22d591d91922ac854e560774d6db2f468fc933f9666ae48f62b98b576d7413c",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:44469e5cb05914aea4aa354e02d7cf4c6dafa559aa14ed7289d7757b6ea08ce9",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13088
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "25.0.2+10-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 12,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 10,
+ "unresolved": 7
+}

@@ -1,0 +1,51 @@
+rank,project,name,criticality_score,kind,tag,target
+1,flink,Apache Flink,0.71833,image,flink:latest,flink@sha256:f64c0809c2adb7537a139736cbaa62ecff20e283bb1ea4a4e119d9a40ee75c0f
+2,netbeans,Apache NetBeans,0.68501,release,,https://archive.apache.org/dist/netbeans/netbeans/31/netbeans-31-bin.zip
+3,kafka,Apache Kafka,0.68188,image,apache/kafka:latest,apache/kafka@sha256:77e3df9054047a88b520d0cc46e16696d3b22022e1d580aeccd2632df6532837
+4,shardingsphere,Apache ShardingSphere,0.67783,image,apache/shardingsphere-proxy:latest,apache/shardingsphere-proxy@sha256:a22d591d91922ac854e560774d6db2f468fc933f9666ae48f62b98b576d7413c
+5,camel,Apache Camel,0.67377,maven,,org.apache.camel@4.19.0
+6,groovy,Apache Groovy,0.67266,image,groovy:latest,groovy@sha256:69e00db7cf4b1ee033685c581a0eb2e9c022d6e768c255c417fd8df9c0a3ca8c
+7,hadoop,Apache Hadoop,0.67025,image,apache/hadoop:3.5.0,apache/hadoop@sha256:46980ea1653eb3453d9cf43c4b7cb69c4729e19612d4902da0372d11e11a7a12
+8,logging-log4j2,Apache Log4j,0.66737,release,,https://archive.apache.org/dist/logging/log4j/2.26.1/apache-log4j-2.26.1-bin.zip
+9,pulsar,Apache Pulsar,0.65655,image,apachepulsar/pulsar:latest,apachepulsar/pulsar@sha256:4507075d8c11b34629f3a0b41f48e3c659951e601538562ee0c088cd2c737ec0
+10,cassandra,Apache Cassandra,0.65589,image,cassandra:latest,cassandra@sha256:acd754f07c73f3a166bb477354b56ce9a05690c3e5e2aaacc1aab2afddba6436
+11,beam,Apache Beam,0.65525,image,apache/beam_java21_sdk:latest,apache/beam_java21_sdk@sha256:8eaf9348487186cd578d9f0bde5cc7fc4c4f7c4b06581a837ab5ab1f1c311587
+12,dubbo,Apache Dubbo,0.64492,release,,https://archive.apache.org/dist/dubbo/apache-dubbo-3.3.7-bin.zip
+13,commons-codec,Apache Commons Codec,0.6356,release,,https://archive.apache.org/dist/commons/codec/binaries/commons-codec-1.23.0-bin.tar.gz
+14,tomcat,Apache Tomcat,0.63301,image,tomcat:latest,tomcat@sha256:801c473ea864cab344fcaadf22789a620acaeecd9daa85e706e06a97ebc37b94
+15,solr,Apache Solr,0.63183,image,solr:latest,solr@sha256:f396e075c4a09e1ec5009fa736792b80e5886319804817e7e334d1c8f05e9c58
+16,lucene,Apache Lucene,0.63114,release,,https://archive.apache.org/dist/lucene/java/10.6.0/lucene-10.6.0.tgz
+17,maven,Apache Maven,0.62189,image,maven:latest,maven@sha256:3175c44b207d6698aecb9bbb5bf285b5b4efcf7f567d6f65d88cd218276a6ab2
+18,cloudstack,Apache Cloudstack,0.61994,image,apache/cloudstack-simulator:4.23.0.0,apache/cloudstack-simulator@sha256:59db60234cd0ae7be289d79862de5818fbec4ac618d74b3af448efadbed77c95
+19,calcite,Apache Calcite,0.61987,maven,,org.apache.calcite@1.42.0
+20,cxf,Apache CXF,0.61673,release,,https://archive.apache.org/dist/cxf/4.2.2/apache-cxf-4.2.2.tar.gz
+21,tika,Apache Tika,0.61279,image,apache/tika:latest,apache/tika@sha256:b99f19c4fd76237dafe7d22f719b9bddfa9a449da687c597a41e2f6d9a595418
+22,curator,Apache Curator,0.61267,maven,,org.apache.curator@5.9.0
+23,iceberg,Apache Iceberg,0.60574,maven,,org.apache.iceberg@1.12.0
+24,skywalking,Apache Skywalking,0.59936,image,apache/skywalking-oap-server:latest,apache/skywalking-oap-server@sha256:ddf74a9059ce4c2cc22120cb3d36b1edf6bbb0e3316eca3e4dff295dd2ff7ee9
+25,hive,Apache Hive,0.59754,image,apache/hive:4.2.1,apache/hive@sha256:b19bb5bd01f233a3f99d941ebf08acaff68c55911dd5fa42ea03928e51860b91
+26,rocketmq,Apache RocketMQ,0.59665,image,apache/rocketmq:latest,apache/rocketmq@sha256:7e8f6c9dbd9df742ed26ba69c00d4ad69e2f86a56f3ca7782ff8144dd0798132
+27,commons-lang,Apache Commons Lang,0.59421,release,,https://archive.apache.org/dist/commons/lang/binaries/commons-lang3-3.22.0-bin.tar.gz
+28,maven-surefire,Apache Maven Surefire,0.59145,maven,,"org.apache.maven.surefire,org.apache.maven.plugins:maven-surefire-plugin,org.apache.maven.plugins:maven-failsafe-plugin,org.apache.maven.plugins:maven-surefire-report-plugin@3.6.1"
+29,camel-quarkus,Apache Camel Quarkus,0.58735,maven,,org.apache.camel.quarkus@3.40.0
+30,tinkerpop,Apache TinkerPop,0.58694,image,tinkerpop/gremlin-server:latest,tinkerpop/gremlin-server@sha256:95442fecf2d205afa3847bcb8226fd6556a6591179452a02bd237f4fd8fa193f
+31,incubator-kie-drools,Apache KIE,0.58596,maven,,"org.drools,org.kie@10.2.0"
+32,nifi,Apache NiFi,0.58547,image,apache/nifi:latest,apache/nifi@sha256:6f7f2840dbf178c6dd3fa13435b9b358f3be3c6fb7417de467a35a267f4d28ad
+33,zookeeper,Apache ZooKeeper,0.58409,image,zookeeper:latest,zookeeper@sha256:7654645af057c76db8facc77c5d6fc0749f0f566bdd5c41efe6e3b824d1248c0
+34,shiro,Apache Shiro,0.58141,maven,,org.apache.shiro@2.0.2
+35,freemarker,Apache Freemarker,0.58067,release,,https://archive.apache.org/dist/freemarker/engine/2.3.35/binaries/apache-freemarker-bin-2.3.35.tgz
+36,activemq,Apache ActiveMQ,0.58018,image,apache/activemq-classic:latest,apache/activemq-classic@sha256:75852a6d357991028e58e7c32a7dd190cb36802568236cf3cd189d2350033be1
+37,karaf,Apache Karaf,0.58002,image,apache/karaf:latest,apache/karaf@sha256:2b1528eaf2da8bbe07c369a734ddd29ed5a04121f68a8aedd5225c946995ebed
+38,jena,Apache Jena,0.57894,release,,https://archive.apache.org/dist/jena/binaries/apache-jena-6.2.0.tar.gz
+39,activemq-artemis,Apache Artemis,0.57805,image,apache/activemq-artemis:latest,apache/activemq-artemis@sha256:0305c26f19eda00c0506d0953cfe265600a72ac1b17f7934412120c01a595cff
+40,ant,Apache Ant,0.57647,release,,https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.18-bin.tar.gz
+41,commons-compress,Apache Commons Compress,0.57281,release,,https://archive.apache.org/dist/commons/compress/binaries/commons-compress-1.28.0-bin.tar.gz
+42,wicket,Apache Wicket,0.57265,release,,https://archive.apache.org/dist/wicket/11.0.0/binaries/apache-wicket-11.0.0-bin.tar.gz
+43,orc,Apache ORC,0.5722,maven,,org.apache.orc@2.3.1
+44,directory-kerby,Apache Kerby,0.57072,maven,,org.apache.kerby@2.1.2
+45,commons-io,Apache Commons IO,0.57004,release,,https://archive.apache.org/dist/commons/io/binaries/commons-io-2.22.0-bin.tar.gz
+46,shenyu,Apache ShenYu,0.569,image,apache/shenyu-bootstrap:latest,apache/shenyu-bootstrap@sha256:121eec006a4e6273e8b92c323b3ca464ea99cd27b054090e23470294b8d56111
+47,commons-collections,Apache Commons Collections,0.56527,release,,https://archive.apache.org/dist/commons/collections/binaries/commons-collections4-4.6.0-bin.tar.gz
+48,seatunnel,Apache SeaTunnel,0.56504,image,apache/seatunnel:latest,apache/seatunnel@sha256:8bb1e463403b713a2ecef15480d4f962db33fb0ddebd87019b9e7a8c933b1750
+49,bookkeeper,Apache BookKeeper,0.56465,image,apache/bookkeeper:latest,apache/bookkeeper@sha256:b841c0c85f4c2a03a8206ee458352f248579ddb9df22be5d6fb564ab9abb8219
+50,hbase,Apache HBase,0.56429,release,,https://archive.apache.org/dist/hbase/3.0.0/hbase-3.0.0-bin.tar.gz

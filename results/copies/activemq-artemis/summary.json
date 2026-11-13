@@ -1,0 +1,24 @@
+{
+ "project": "activemq-artemis",
+ "kind": "image",
+ "target": "apache/activemq-artemis@sha256:0305c26f19eda00c0506d0953cfe265600a72ac1b17f7934412120c01a595cff",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:fdc3d1c5892ad93cf3d410ec2d663f512b18dbbc12e8080eeb97e10bf097ae28",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13273
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "21.0.8+9-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 2,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 10,
+ "unresolved": 0
+}

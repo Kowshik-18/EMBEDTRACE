@@ -1,0 +1,31 @@
+{
+ "project": "kafka",
+ "target": "apache/kafka@sha256:77e3df9054047a88b520d0cc46e16696d3b22022e1d580aeccd2632df6532837",
+ "rootfs_prefix": "/home/claude/EmbedTrace/cache/work/rootfs_ykx01ln4",
+ "runs": {
+  "syft": {
+   "version": "1.42.4",
+   "exit": 0,
+   "seconds": 2,
+   "valid": true,
+   "command": "syft dir:<root> -q -o cyclonedx-json=syft.cdx.json",
+   "stderr_tail": ""
+  },
+  "trivy": {
+   "version": "0.76.1",
+   "exit": 0,
+   "seconds": 3,
+   "valid": true,
+   "command": "trivy rootfs --quiet --scanners vuln --format cyclonedx --output trivy.cdx.json <root>",
+   "stderr_tail": ""
+  },
+  "cdxgen": {
+   "version": "12.9.0",
+   "exit": 0,
+   "seconds": 36,
+   "valid": true,
+   "command": "cdxgen -t universal -r --no-install-deps -o cdxgen.cdx.json <root>",
+   "stderr_tail": ""
+  }
+ }
+}

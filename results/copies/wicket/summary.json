@@ -1,0 +1,15 @@
+{
+ "project": "wicket",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/wicket/11.0.0/binaries/apache-wicket-11.0.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:dad68476d713e79d2d854276dfec4916604cc29020be550f1a90d16540d65042eb0a146dcd49b906d2fdf4a6f73027156b84c00d8a68f8f17e9a19078f95af39",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

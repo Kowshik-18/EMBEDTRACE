@@ -1,0 +1,24 @@
+{
+ "project": "kafka",
+ "kind": "image",
+ "target": "apache/kafka@sha256:77e3df9054047a88b520d0cc46e16696d3b22022e1d580aeccd2632df6532837",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:ccd1314e47ec76909e01f86308b4dcf2064f19f7c89759234322314b0e319e26",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "apk": 1416
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "21.0.11+10-LTS",
+   "libc": "musl"
+  }
+ ],
+ "native_files_in_archives": 6,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 9,
+ "unresolved": 10
+}

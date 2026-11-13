@@ -1,0 +1,31 @@
+{
+ "project": "cloudstack",
+ "target": "apache/cloudstack-simulator@sha256:59db60234cd0ae7be289d79862de5818fbec4ac618d74b3af448efadbed77c95",
+ "rootfs_prefix": "/home/claude/EmbedTrace/cache/work/rootfs_7jkmj2o0",
+ "runs": {
+  "syft": {
+   "version": "1.42.4",
+   "exit": 0,
+   "seconds": 44,
+   "valid": true,
+   "command": "syft dir:<root> -q -o cyclonedx-json=syft.cdx.json",
+   "stderr_tail": ""
+  },
+  "trivy": {
+   "version": "0.76.1",
+   "exit": 0,
+   "seconds": 11,
+   "valid": true,
+   "command": "trivy rootfs --quiet --scanners vuln --format cyclonedx --output trivy.cdx.json <root>",
+   "stderr_tail": ""
+  },
+  "cdxgen": {
+   "version": "12.9.0",
+   "exit": 0,
+   "seconds": 1775,
+   "valid": true,
+   "command": "cdxgen -t universal -r --no-install-deps -o cdxgen.cdx.json <root>",
+   "stderr_tail": ""
+  }
+ }
+}

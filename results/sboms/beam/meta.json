@@ -1,0 +1,31 @@
+{
+ "project": "beam",
+ "target": "apache/beam_java21_sdk@sha256:8eaf9348487186cd578d9f0bde5cc7fc4c4f7c4b06581a837ab5ab1f1c311587",
+ "rootfs_prefix": "/home/claude/EmbedTrace/cache/work/rootfs_e2o7v2i5",
+ "runs": {
+  "syft": {
+   "version": "1.42.4",
+   "exit": 0,
+   "seconds": 4,
+   "valid": true,
+   "command": "syft dir:<root> -q -o cyclonedx-json=syft.cdx.json",
+   "stderr_tail": ""
+  },
+  "trivy": {
+   "version": "0.76.1",
+   "exit": 0,
+   "seconds": 0,
+   "valid": true,
+   "command": "trivy rootfs --quiet --scanners vuln --format cyclonedx --output trivy.cdx.json <root>",
+   "stderr_tail": ""
+  },
+  "cdxgen": {
+   "version": "12.9.0",
+   "exit": 0,
+   "seconds": 5,
+   "valid": true,
+   "command": "cdxgen -t universal -r --no-install-deps -o cdxgen.cdx.json <root>",
+   "stderr_tail": ""
+  }
+ }
+}

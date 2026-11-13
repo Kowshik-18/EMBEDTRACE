@@ -1,0 +1,15 @@
+{
+ "project": "ant",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.18-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:c510d744876d8da48dabc9495b023b6ec5284a0f18b40ee50d98ce099e791ca5c73e3cd4c80d3c90d3efc03f9620be43aad0a373ed47198284f7e3373e0db2c3",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

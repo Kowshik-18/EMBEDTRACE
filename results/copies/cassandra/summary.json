@@ -1,0 +1,24 @@
+{
+ "project": "cassandra",
+ "kind": "image",
+ "target": "cassandra@sha256:acd754f07c73f3a166bb477354b56ce9a05690c3e5e2aaacc1aab2afddba6436",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:354669340df958185e8712a8343c57773028bb4d6b76e8e4b37c1ade7020b1c6",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13569
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "17.0.21+9",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 9,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 15,
+ "unresolved": 3
+}

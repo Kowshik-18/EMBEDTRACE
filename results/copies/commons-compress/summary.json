@@ -1,0 +1,15 @@
+{
+ "project": "commons-compress",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/commons/compress/binaries/commons-compress-1.28.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:87c6b00ec854d8dc08834ed3bd1590d1facce45dad8c8fc37b2e82e30b18f793181f8dd6b8fcbba3850534b56cfafc7cfa3bd5236004293368fc3b7ff651d4b6",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 1306,
+ "verified_copies": 0,
+ "unresolved": 0
+}

@@ -1,0 +1,15 @@
+{
+ "project": "freemarker",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/freemarker/engine/2.3.35/binaries/apache-freemarker-bin-2.3.35.tgz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:992b2d186f86d464439f4ef8b853a8f4179c9e1b156d76c07a6d4ec095dd3b99c8fdf2f0dd11434259e6c46d1b382b68749cded198a0ba2e023076795f6c6f0f",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

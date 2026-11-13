@@ -1,0 +1,24 @@
+{
+ "project": "beam",
+ "kind": "image",
+ "target": "apache/beam_java21_sdk@sha256:8eaf9348487186cd578d9f0bde5cc7fc4c4f7c4b06581a837ab5ab1f1c311587",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:d2791195263bd25b186a05087a4817e1c1626622a954f64f266d704e05aa9947",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 20550
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "21.0.12.1+1-LTS",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 10,
+ "unresolved": 0
+}

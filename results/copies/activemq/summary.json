@@ -1,0 +1,24 @@
+{
+ "project": "activemq",
+ "kind": "image",
+ "target": "apache/activemq-classic@sha256:75852a6d357991028e58e7c32a7dd190cb36802568236cf3cd189d2350033be1",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:b74efb04debf6ea73dcc3ef54321f34bffd2b06e6b429ec4ee87348c1318e2dc",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13259
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "17.0.17+10",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 9,
+ "unresolved": 0
+}

@@ -1,0 +1,15 @@
+{
+ "project": "cxf",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/cxf/4.2.2/apache-cxf-4.2.2.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha256:150b28e3c84a0e3c266ffe5e2ca8ec9f4721e23827e2661cd80afee555c84065",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 2,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

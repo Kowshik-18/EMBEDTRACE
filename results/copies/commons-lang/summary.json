@@ -1,0 +1,15 @@
+{
+ "project": "commons-lang",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/commons/lang/binaries/commons-lang3-3.22.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:259e9e67813a16d9131f7265c130280ae2d8d51bd16442a02ef3876c67cecf3c83bc2a275719e052c357fee7381a84779d3e47e9cf132951c9a0d3d872677b6b",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

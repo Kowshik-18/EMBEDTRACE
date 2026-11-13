@@ -1,0 +1,15 @@
+{
+ "project": "dubbo",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/dubbo/apache-dubbo-3.3.7-bin.zip",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:29f6ae552c448fa382405a369bed5dcb74d50de3625edbe2e6d3ca51704491938e3ea75d80994c83f578efa2808546535f9daf5ff27db0268c52b160741e4e8b",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

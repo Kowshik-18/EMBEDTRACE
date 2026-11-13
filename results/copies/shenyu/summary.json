@@ -1,0 +1,17 @@
+{
+ "project": "shenyu",
+ "kind": "image",
+ "target": "apache/shenyu-bootstrap@sha256:121eec006a4e6273e8b92c323b3ca464ea99cd27b054090e23470294b8d56111",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:c81302835cc0b64130f6c552e8425c4abca05fbf9d40bd052be48ac983c1e430",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "apk": 928
+ },
+ "java_runtimes": [],
+ "native_files_in_archives": 7,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 5,
+ "unresolved": 1
+}

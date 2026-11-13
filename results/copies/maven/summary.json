@@ -1,0 +1,24 @@
+{
+ "project": "maven",
+ "kind": "image",
+ "target": "maven@sha256:3175c44b207d6698aecb9bbb5bf285b5b4efcf7f567d6f65d88cd218276a6ab2",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:78b8307d5e08ef935ad261c42fc0dc74496f3a2d371174a72a8b7a86f5517c44",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 26526
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "27.0.1.0.2+1",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 1,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 10,
+ "unresolved": 1
+}

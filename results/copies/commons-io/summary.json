@@ -1,0 +1,15 @@
+{
+ "project": "commons-io",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/commons/io/binaries/commons-io-2.22.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:aa8184f097ee9d43b2fbe56a82ca1ed3f0f4c153687cc18c4d218601948270a92a69c36224317db236715064946a3799727de5c3e57c536ddbaf61a98d84c737",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 2,
+ "verified_copies": 0,
+ "unresolved": 0
+}

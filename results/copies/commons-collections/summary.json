@@ -1,0 +1,15 @@
+{
+ "project": "commons-collections",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/commons/collections/binaries/commons-collections4-4.6.0-bin.tar.gz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:b54c61737ff2ec7eaf6e1caf4d2adae42534dd28a9383c3fae1d5f299bce97b00ca15aee2c81ba4a4b50e64db69103cc3629a43af39b52f90990cdee944d3aa5",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

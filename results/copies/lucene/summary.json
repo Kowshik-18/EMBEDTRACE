@@ -1,0 +1,15 @@
+{
+ "project": "lucene",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/lucene/java/10.6.0/lucene-10.6.0.tgz",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:caf097c45734ec1878ae1d51ef38a3269fde3e61aed0671fc924b2def685d50cfdc0224376b11db705a706392d0ef777a7f80cbba5c9bd231b3469ac9151abb0",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

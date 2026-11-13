@@ -1,0 +1,15 @@
+{
+ "project": "logging-log4j2",
+ "kind": "release",
+ "target": "https://archive.apache.org/dist/logging/log4j/2.26.1/apache-log4j-2.26.1-bin.zip",
+ "complete": true,
+ "lookup_errors": 0,
+ "artifact_digest": "sha512:d4ffb3da5b3446c0c10a73ac31b821756f0d9ec2857b4dcc9e643af287a7d995afcd2cebf71883a288acd108c3c051f3800256bc5a823d04905e1e191c890ddf",
+ "unresolved_hard_links": [],
+ "os_package_files": {},
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

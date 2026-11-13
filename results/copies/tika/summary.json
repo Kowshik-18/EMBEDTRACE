@@ -1,0 +1,17 @@
+{
+ "project": "tika",
+ "kind": "image",
+ "target": "apache/tika@sha256:b99f19c4fd76237dafe7d22f719b9bddfa9a449da687c597a41e2f6d9a595418",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:f0d739823474b38a31881dff3cbc94cc25ed29d8456045d3ff26ae2400e48255",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 16983
+ },
+ "java_runtimes": [],
+ "native_files_in_archives": 0,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 0,
+ "unresolved": 0
+}

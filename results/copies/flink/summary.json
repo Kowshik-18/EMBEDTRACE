@@ -1,0 +1,24 @@
+{
+ "project": "flink",
+ "kind": "image",
+ "target": "flink@sha256:f64c0809c2adb7537a139736cbaa62ecff20e283bb1ea4a4e119d9a40ee75c0f",
+ "complete": true,
+ "lookup_errors": 0,
+ "platform_digest": "sha256:7c9eb279357c942a103fc93661712a4233bef511f8d417254f32a668b3edada7",
+ "unresolved_hard_links": [],
+ "os_package_files": {
+  "dpkg": 13340
+ },
+ "java_runtimes": [
+  {
+   "home": "/opt/java/openjdk",
+   "vendor": "Eclipse Adoptium",
+   "version": "17.0.21+9",
+   "libc": "glibc"
+  }
+ ],
+ "native_files_in_archives": 29,
+ "unreadable_archive_entries": 0,
+ "verified_copies": 16,
+ "unresolved": 23
+}
